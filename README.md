@@ -29,7 +29,7 @@ Eso es todo, chequea tu flamante tomcat en:
 
     http://tomcat-$yournamespace.rhcloud.com
 
-La cuenta por defecto para administracion es tomcat/openshift
+La cuenta por defecto para administracion es tomcat/openshift.
 No olvides configurar los usuarios en conf/tomcat-users.xml
 
 License
